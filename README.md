@@ -1,5 +1,20 @@
 # 💫 About Me:
-Olá!<br><br>Sou um profissional atuante na área de desenvolvimento há 3 anos, com os seguintes conhecimentos adquiridos e utilizados:<br><br>- Delphi<br>- Java<br>- HTML5<br>- SASS<br>- Javascript<br>- Bootstrap<br>- Tailwind<br>- React.JS<br>- Next.JS<br>- Tomcat<br>- BD MySQL<br>- BD Informix<br>- BD SQL Server<br>- BD Firebird
+Sou um profissional de TI com sólida experiência no desenvolvimento de soluções empresariais, abrangendo tanto o backend quanto o front-end. Ao longo de minha carreira, tenho atuado com tecnologias como Java, Spring Boot, Delphi, Node.js, Typescript, Python e bancos de dados relacionais.
+
+Participei de diversos projetos, destacando-se a criação de APIs escaláveis com Node.js e Spring Boot, além de integrações robustas com bancos de dados e plataformas de BI como Power BI, onde desenvolvi dashboards interativos para análise de dados empresariais. Além disso, possuo experiência no desenvolvimento de software de gestão empresarial em Delphi, otimizando processos em áreas como logística, financeira e controle de acesso.
+
+Minhas habilidades no front-end complementam meu trabalho no backend, garantindo que as soluções entregues sejam eficientes e responsivas. Utilizo tecnologias como HTML5, CSS, JavaScript, React.js e Next.js em projetos que requerem uma interface intuitiva e moderna, sempre visando a melhor experiência do usuário.
+
+Habilidades Técnicas:
+
+Backend: Java, Delphi, Node.js, Python, Typescript
+Front-end: HTML5, CSS, JavaScript, React.js, Next.js
+Frameworks: Spring Boot, Express.js
+Bancos de Dados Relacionais: MySQL, Informix, Firebird, PostgreSQL, etc
+Integração de APIs: RESTful APIs
+Ferramentas de Dados: Power BI, Pipelines de Dados
+Metodologias Ágeis: Scrum
+Nuvem: AWS (Certified Cloud Practitioner)
 
 
 ## 🌐 Socials:
