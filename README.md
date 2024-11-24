@@ -1,20 +1,11 @@
 # 💫 About Me:
-Sou um profissional de TI com sólida experiência no desenvolvimento de soluções empresariais, abrangendo tanto o backend quanto o front-end. Ao longo de minha carreira, tenho atuado com tecnologias como Java, Spring Boot, Delphi, Node.js, Typescript, Python e bancos de dados relacionais.
+Sou um desenvolvedor Full-Stack com mais de 5 anos de experiência e expertise em Java, React, NodeJs e Typescript, desenvolvendo softwares robustos para o ramo de construção civil, saúde e soluções de problemas com IA Generativa. Minhas habilidades se estendem além de skills técnicas, atuando como líder de um time de back-end. 
 
-Participei de diversos projetos, destacando-se a criação de APIs escaláveis com Node.js e Spring Boot, além de integrações robustas com bancos de dados e plataformas de BI como Power BI, onde desenvolvi dashboards interativos para análise de dados empresariais. Além disso, possuo experiência no desenvolvimento de software de gestão empresarial em Delphi, otimizando processos em áreas como logística, financeira e controle de acesso.
+Como um experiente desenvolvedor Full-Stack, já desenvolvi aplicações de gestão de indústria, processos logísticos, software de CRM e gestão de projetos, sempre com foco em interfaces intuitivas para os usuários e com sistemas robustos de backend, buscando sempre a escalabilidade de performance e segurança. Meu estilo de liderança tem como raiz a colaboração e o desenvolvimento contínuo, levando minha equipe a ótimas conquistas. 
 
-Minhas habilidades no front-end complementam meu trabalho no backend, garantindo que as soluções entregues sejam eficientes e responsivas. Utilizo tecnologias como HTML5, CSS, JavaScript, React.js e Next.js em projetos que requerem uma interface intuitiva e moderna, sempre visando a melhor experiência do usuário.
+Meu expertise técnico incluem tecnologias de backend como NodeJs, Typescript, Java, Springboot, AWS, MySQL, SQLServer, PostgreSQL, IBM Informix, RESTful API, assim como desenvolvimento front-end utilizando React.js, Next.js, Vite, HTML, CSS, Javascript. Complemento essas habilidades com Docker, Kafka, Github, Linux, N8N e metodologia ágil scrum.
 
-Habilidades Técnicas:
-
-Backend: Java, Delphi, Node.js, Python, Typescript
-Front-end: HTML5, CSS, JavaScript, React.js, Next.js
-Frameworks: Spring Boot, Express.js
-Bancos de Dados Relacionais: MySQL, Informix, Firebird, PostgreSQL, etc
-Integração de APIs: RESTful APIs
-Ferramentas de Dados: Power BI, Pipelines de Dados
-Metodologias Ágeis: Scrum
-Nuvem: AWS (Certified Cloud Practitioner)
+Atualmente sou graduado em Ciências da Computação, com certificação AWS Cloud Practitioner.
 
 
 ## 🌐 Socials:
